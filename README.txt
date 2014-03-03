@@ -1,0 +1,1 @@
+DegTrig.js is a JavaScript Library that wraps the standard Math.trigonometry library allowing trigonometric functions to accept and return degrees. This project is released under the GPL V 3. Please see the license file for details.

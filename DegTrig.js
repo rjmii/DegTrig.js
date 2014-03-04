@@ -73,10 +73,3 @@ function acos(numIn) {
 	outAcos= outAcos * toDeg;
 	return outAcos;
 }
-function cossec(numInDeg) {
-	"use strict";
-	var numInRad, outCossec;
-	numInRad = numInDeg * (toRad);
-	outCossec = Math.cossec(numInRad);
-	return outCossec;
-}

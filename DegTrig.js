@@ -29,8 +29,6 @@
 */
 // Written By Robert McCleary 8/28/2013
 // This currently does sin, tan, atan, cos, asin, and acos
-// I will need to add sec and asec and cossec
-
 var toRad = (Math.PI / 180);
 var toDeg = (180 / Math.PI);
 function sin(numInDeg) {
@@ -74,20 +72,6 @@ function acos(numIn) {
 	outAcos = Math.acos(numIn);
 	outAcos= outAcos * toDeg;
 	return outAcos;
-}
-function sec(numInDeg) {
-	"use strict";
-	var numInRad, outSec;
-	numInRad = numInDeg * (toRad);
-	outSec = Math.sec(numInRad);
-	return outSec;
-}
-function asec(numInDeg) {
-	"use strict";
-	var numInRad, outAsec;
-	numInRad = numInDeg * (toRad);
-	outAsec = Math.asec(numInRad);
-	return outAsec;
 }
 function cossec(numInDeg) {
 	"use strict";

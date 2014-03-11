@@ -3,7 +3,7 @@
 
     Copyright (C) 2013  Robert J. McCleary II
 
-    The SunSchedule app is free software: you can redistribute it and/or modify
+    The DegTrig Library is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
@@ -25,6 +25,8 @@
 
 	Email Adress:
 	rjmii@spatialanalysts.com
+	
+	View the GitHub Repository at: https://github.com/rjmii/DegTrig.js
 
 */
 // Written By Robert McCleary 8/28/2013
